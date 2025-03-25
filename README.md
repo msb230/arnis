@@ -142,6 +142,6 @@ The logo was made by @nxfx21.
 
 [^1]: https://en.wikipedia.org/wiki/OpenStreetMap
 
-[^2]: https://en.wikipedia.org/wiki/Arnis,_Germany
+[^2]: https://en.wikipedia.orgm/wiki/Arnis,_Germany
 
 [^3]: https://github.com/louis-e/arnis/blob/main/LICENSE
